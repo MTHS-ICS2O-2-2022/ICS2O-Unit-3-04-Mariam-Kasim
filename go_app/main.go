@@ -1,7 +1,7 @@
 // Created by: Mariam Kasim
 // Created on: Apr 2023
 //
-//This program calculates the conversion of temperature from fahrenheit to celsius
+// This program calculates the conversion of temperature from fahrenheit to celsius
 
 package main
 
@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	//This program calculates the conversion of temperature from fahrenheit to celsius
+	// This program calculates the conversion of temperature from fahrenheit to celsius
 	var fahrenheit float64
 
 	// input
